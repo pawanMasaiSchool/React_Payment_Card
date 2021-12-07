@@ -1,0 +1,17 @@
+.Date {
+  color: black;
+  width: 95%;
+  height: auto;
+  font-size: 30px;
+  /* border: 1px solid green; */
+  margin: 0.5% 0% 0.5% 0%;
+}
+
+.myLogo {
+  width: 120px;
+  height: 100px;
+  /* float: right; */
+  padding: 0%;
+  margin: 0% 0% 0% 85%;
+  /* border: 1px solid red; */
+}

@@ -1,0 +1,15 @@
+.Devices {
+  width: 98%;
+  height: 90px;
+  /* border: 1px solid green; */
+  text-align: left;
+  font-size: 38px;
+  margin: 5% 0% 2% 0%;
+}
+
+.myArrow {
+  width: 10%;
+  height: auto;
+  float: right;
+  padding: 2% 2% 15% 2%;
+}

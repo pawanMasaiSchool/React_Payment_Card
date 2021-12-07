@@ -1,0 +1,11 @@
+.CaseBtn {
+  background-color: black;
+  color: #ffffff;
+  /* border: 1px solid green; */
+  width: 20%;
+  font-size: 35px;
+  height: auto;
+  padding: 2.5%;
+  /* margin: 5% 0% 5% 0%; */
+  /* float: left; */
+}

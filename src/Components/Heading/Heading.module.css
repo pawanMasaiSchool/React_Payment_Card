@@ -1,0 +1,10 @@
+.Heading {
+  color: black;
+  font-size: 40px;
+  font-weight: 900;
+  /* border: 1px solid green; */
+  width: 50%;
+  height: auto;
+  text-align: left;
+  margin: 2% 0% 2% 0%;
+}
